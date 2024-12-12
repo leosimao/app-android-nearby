@@ -1,4 +1,4 @@
-package com.deveasy.nearby.ui.theme.component.market
+package com.deveasy.nearby.ui.component.market
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.lazy.LazyColumn

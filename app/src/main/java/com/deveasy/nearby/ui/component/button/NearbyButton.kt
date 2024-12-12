@@ -1,4 +1,4 @@
-package com.deveasy.nearby.ui.theme.component.button
+package com.deveasy.nearby.ui.component.button
 
 import androidx.annotation.DrawableRes
 import androidx.compose.foundation.layout.Arrangement

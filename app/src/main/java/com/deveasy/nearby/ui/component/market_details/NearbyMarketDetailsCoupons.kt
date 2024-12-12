@@ -1,4 +1,4 @@
-package com.deveasy.nearby.ui.theme.component.market_details
+package com.deveasy.nearby.ui.component.market_details
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement

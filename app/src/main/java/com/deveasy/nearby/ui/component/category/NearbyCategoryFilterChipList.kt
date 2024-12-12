@@ -1,4 +1,4 @@
-package com.deveasy.nearby.ui.theme.component.category
+package com.deveasy.nearby.ui.component.category
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.PaddingValues

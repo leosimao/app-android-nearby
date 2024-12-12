@@ -1,6 +1,5 @@
-package com.deveasy.nearby.ui.theme.component.market
+package com.deveasy.nearby.ui.component.market
 
-import androidx.collection.intIntMapOf
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
